@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/68827611.svg)](https://zenodo.org/badge/latestdoi/68827611)
+
 # Ecological-Database-of-the-World-s-Insect-Pathogens
 
 A dataset of the pathogen and diets of insects that will be available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
